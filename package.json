@@ -1,0 +1,27 @@
+{
+  "name": "resource-manager",
+  "version": "0.0.0",
+  "description": "Manages the project resources",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/treihadwyl/base-module"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Matt Styles <matt@veryfizzyjelly.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-plumber": "^0.5.6",
+    "gulp-notify": "^1.2.4",
+    "gulp-util": "^2.2.14",
+    "gulp-mocha": "^0.4.1",
+    "gulp": "^3.6.0",
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "es6-promise": "^0.1.1",
+    "pixi.js": "^1.5.2"
+  }
+}
