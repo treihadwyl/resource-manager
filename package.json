@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "es6-promise": "^0.1.1",
-    "pixi.js": "^1.5.2"
+    "pixi.js": "^1.5.2",
+    "lodash-node": "^2.4.1"
   }
 }
